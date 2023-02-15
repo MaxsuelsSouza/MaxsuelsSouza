@@ -1,4 +1,4 @@
-Nomename: Generate Datas
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -26,4 +26,4 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#ffff,
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
