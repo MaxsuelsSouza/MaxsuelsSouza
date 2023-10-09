@@ -1,30 +1,59 @@
 <h2>Welcome to Maxsuel Souza profile! 👨🏽‍💻 </h2>
+<img src="https://media.giphy.com/media/EJOdcxm52IWNq/giphy.gif"  width="350" align="right" alt="futuroproximo"  
+
+# 💫 About Me:
+Me chamo Maxsuel Souza e atualmente estou cursando o
+2 período de análise e desenvolvimento de sistemas! Possuo
+conhecimentos tanto no front end como no back end, mas
+tenho foco no back end pois pretendo trabalhar futuramente
+como Game Developer. Comecei na área de programação através de um curso técnico de redes de computadores
+onde eu aprendi lógica de programação com portugol... Logo em diante
+iniciei meus estudos na área de desenvolvimento front end onde eu
+pude conhecer mais sobre a web e escolher em que área me especializar,
+o back end. Eu aprendo fácil e sou bem resiliente quando quero atingir um objetivo.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxsuel-souza-395441266/) 
+
+# 💻 Tech Stack:
+  <img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">  
+  
+# 🔥 Frameworks:
+ <img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"> <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">  
+
+🛠 My tools
+    
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,bash,powershell" />
+  </a>
+</p>
+
+⚙  DevOps
+
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=docker,heroku" />
+  </a>
+</p>
+ 
+</br>
+<img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif" width="210" align="right" alt="medalorian">
+<!--   databases   -->
+🛢 Databases
+ 
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,dynamodb" />
+  </a>
+</p>
 
 
-<div style="display: inline_block"><br>
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
-    <img src="https://media.giphy.com/media/EJOdcxm52IWNq/giphy.gif"  width="350" align="right" alt="futuroproximo"   
-
--   🖥️ GitHub Profile Stats
-
-<div align="center">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=MaxsuelsSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsuelsSouza&layout=compact&theme=dark&hide=html,css,scss" />
-</div>
-
-<div>
-
-  <a href="https://www.instagram.com/m4xsueu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:maxsuelsouzap1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maxsuel-souza-395441266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
   
 <!--   🐍snake   -->
 <h3> 🗓️ Contributions in the last year </h3>
 
-<p align="center"> <img src="https://github.com/MaxsuelsSouza/MaxsuelsSouza/blob/output/github-contribution-grid-snake.svg"></p>
+
  
 #
+
