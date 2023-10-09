@@ -13,7 +13,7 @@ pude conhecer mais sobre a web e escolher em que área me especializar,
 o back end. Eu aprendo fácil e sou bem resiliente quando quero atingir um objetivo.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxsuel-souza-395441266/) 
+[![LinkedIn](https://www.linkedin.com/in/maxsuel-souza-395441266/) 
 
 # 💻 Tech Stack:
   <img width="40" display="block" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">  <img width="40" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">  
