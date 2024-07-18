@@ -2,15 +2,11 @@
 <img src="https://media.giphy.com/media/EJOdcxm52IWNq/giphy.gif"  width="350" align="right" alt="futuroproximo"  
 
 # 💫 About Me:
-Me chamo Maxsuel Souza e atualmente estou cursando o
-2 período de análise e desenvolvimento de sistemas! Possuo
-conhecimentos tanto no front end como no back end, mas
-tenho foco no back end pois pretendo trabalhar futuramente
-como Game Developer. Comecei na área de programação através de um curso técnico de redes de computadores
-onde eu aprendi lógica de programação com portugol... Logo em diante
-iniciei meus estudos na área de desenvolvimento front end onde eu
-pude conhecer mais sobre a web e escolher em que área me especializar,
-o back end. Eu aprendo fácil e sou bem resiliente quando quero atingir um objetivo.
+Como um desenvolvedor de software experiente, possuo uma sólida base em Java, Node.js, C#, .NET para desenvolvimento backend 
+e JavaScript e Vue.js e Angular para desenvolvimento frontend, com um profundo compromisso com o desenvolvimento full-stack.
+Minha paixão pela programação é ampliada pela minha vasta experiência com uma ampla gama de tecnologias e minha participação ativa em metodologias Ágeis.
+Esta combinação destaca minha adaptabilidade e dedicação à melhoria contínua no ciclo de vida do desenvolvimento de software.
+Além disso, minha formação em direito adiciona uma perspectiva única à minha abordagem.
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/maxsuel-souza-395441266/) 
